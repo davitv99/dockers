@@ -1,0 +1,2 @@
+FROM mrvautin/adminmongo
+
